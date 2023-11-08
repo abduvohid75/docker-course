@@ -1,0 +1,11 @@
+django
+djangorestframework
+Celery
+aiogram
+drf-yasg
+django-cors-headers
+djangorestframework-simplejwt
+django_celery_beat
+Pillow
+psycopg2
+redis
